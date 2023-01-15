@@ -1,5 +1,5 @@
 # Cosine Law Assistant
-**A program created in JAVA using java.awt and java.swing (and their respective event handlers)**
+**A program created with JAVA using java.awt and java.swing (and their respective event handlers)**
 ***
 
 ## Version 1.0:
