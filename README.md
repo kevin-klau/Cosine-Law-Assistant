@@ -3,8 +3,8 @@
 ***
 
 ## Version 1.0:
-**Last Updated:** 2022-03-18
-**Author:**** Kevin Lau
+**Last Updated:** 2022-03-18<br>
+**Author:** Kevin Lau
 
 ***
 ## Features
