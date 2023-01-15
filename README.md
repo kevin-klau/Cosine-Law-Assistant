@@ -6,7 +6,7 @@
 **Last Updated:** 2022-03-18<br>
 **Author:** Kevin Lau
 
-## Features
+## Features:
 ### **Cosine Calculator 🧮** ###
 This calculator can calculates your **desired side / angle** using your given dimensions following the **Cosine Law**!
 
