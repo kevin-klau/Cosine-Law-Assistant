@@ -8,14 +8,14 @@
 
 ***
 ## Features
-**__Cosine Calculator 🧮__**
+#**Cosine Calculator 🧮**
 This calculator can calculates your **desired side / angle** using your given dimensions following the **Cosine Law**!
 
 Also, it will provide a **fully labelled diagram** of your triangle (with correct scaling)!!!
 
 It will even indicate whether or not your triangle is possible or not with **your inputted dimensions**!!!
 
-**__Cosine Law Tester 📝__**
+#**Cosine Law Tester 📝**
 This section will **test you** of your application of the **cosine law**!!!
 
 It will give you **2 types of problems**
@@ -24,13 +24,13 @@ It will give you **2 types of problems**
 
 If you do well, you might be able to **enter the high scores board**!!!
 
-**__Triangle Reviewer 🔎 __**
+#**Triangle Reviewer 🔎**
 In the calculator section, you can **save the triangle** that you created!!!
 
 Then you can review that **SAME** triangle in this section!!! 
 It will give **all** of it's dimensions, and it's **scaled diagram** as well!!!
 
-**__Additional Sections➕ __**
+#**Additional Sections➕**
 The other 2 sections are the **help and about me** sections!!!
 Both of them are **fun and great to read** (especially the **about me** 😊)
 Also, don't forget to run the program through **CosineLaw.java**!
